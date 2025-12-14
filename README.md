@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 🎓 I’m a 3rd year software Engineering student  
 💻 Passionate full-stack developer — building modern, scalable web apps  
