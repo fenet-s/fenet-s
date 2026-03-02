@@ -42,7 +42,7 @@
 #🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=fenet-s&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=fenet-s&show_icons=true&theme=radical&cache_seconds=3600" />
 </p>
 
 ### 🏆 Top Languages  
