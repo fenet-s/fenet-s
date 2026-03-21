@@ -15,7 +15,7 @@
 🌐 Skilled in React, MongoDB, Tailwind CSS, Node.js
 🤖 Enthusiastic about AI and web development  
 
---
+---
 
 🛠 Languages & Tools
 
