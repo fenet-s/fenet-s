@@ -7,7 +7,6 @@
 </p>
 
 ---
-
 # 🧠 About Me
 
 🎓 I’m a 3rd year software Engineering student  
