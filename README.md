@@ -37,13 +37,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/fenet-s">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fenet-s&repo=web_based2-portifolio&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 <p align="center">
   🔹 Personal Blog App (React + Jotai)  
