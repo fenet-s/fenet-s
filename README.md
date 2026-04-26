@@ -55,14 +55,4 @@
 
 ---
 
-## 📂 Featured Work
-- **BorrowTracker:** Android application for resource management (Dec 2025).
-- **IoT Security Ecosystem:** System architecture and implementation (Mar 2026).
-- **Nano-Banani:** Transit navigation logic for Addis Ababa (Apr 2026).
-- **CSEC_ASTU_dev_community:** Repository management for the ASTU dev community.
 
----
-
-<p align="center">
-  <em>"Building the future, one line of code at a time."</em>
-</p>
