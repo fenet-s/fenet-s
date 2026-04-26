@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Clean+Code+Enthusiast;Always+Learning+New+Things!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&width=650&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+%2B+Web+Integration;Clean+Code+Enthusiast;Always+Learning!" />
 </p>
 
 ---
@@ -16,16 +16,39 @@
 
 - 🎓 3rd Year Software Engineering Student  
 - 💻 I build **modern, scalable full-stack applications**  
-- ⚡ I love turning ideas into real products  
-- 🤖 Currently exploring **AI + Web Integration**  
-- 🎯 Goal: Become a **top-tier full-stack engineer**
+- ⚛️ Strong in **React ecosystem + state management (Jotai)**  
+- 🛠 Experience with **REST APIs, authentication & backend logic**  
+- 🤖 Exploring **AI-powered web apps**  
+- 🎯 Focused on writing **clean, maintainable code**
 
 ---
 
 ## ⚒️ Tech Stack
 
+### 🚀 Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,tailwind,git,postman" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,tailwind" />
+</p>
+
+### 🧠 Additional Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,express,git,github,postman,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/fenet-s">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fenet-s&repo=web_based2-portifolio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  🔹 Personal Blog App (React + Jotai)  
+  🔹 Full-Stack Portfolio Website  
+  🔹 Authentication & Backend Systems  
 </p>
 
 ---
@@ -54,7 +77,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://t.me/app_duulaa">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40"/>
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
   </a>
 </p>
 
