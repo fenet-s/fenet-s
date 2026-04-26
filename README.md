@@ -20,9 +20,7 @@
 
 ## ⚡ Quick Snapshot
 - 🎓 **Education:** 3rd Year Software Engineering @ Adama Science and Technology University
-- 🚀 **Focus:** Full-stack development, Web3, and AI-driven solutions
-- 🧪 **Current Interest:** Contributing to the **OroLLM** project (Afaan Oromo linguistic validation)
-- 🛠 **Hardware/IoT:** Experienced in designing secure IoT ecosystems
+- 🚀 **Focus:** Full-stack development and AI-driven solutions
 
 ---
 
@@ -33,7 +31,7 @@
 | **Core** | JavaScript (ES6+), TypeScript, React, Next.js, Node.js |
 | **Backend** | Express, REST APIs, Authentication, Solidity |
 | **Data** | MongoDB, PostgreSQL |
-| **Tools** | Git, GitHub, Postman, VS Code, Expo & EAS |
+| **Tools** | Git, GitHub, Postman, VS Code |
 | **UI/UX** | Tailwind CSS, HTML5, CSS3 |
 
 <p align="center">
