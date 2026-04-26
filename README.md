@@ -76,8 +76,4 @@
 
 ---
 
-## 💡 Fun Touch
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fenet-s&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
