@@ -15,11 +15,11 @@
 ## 🧠 About Me
 
 - 🎓 3rd Year Software Engineering Student  
-- 💻 I build **modern, scalable full-stack applications**  
-- ⚛️ Strong in **React ecosystem + state management (Jotai)**  
-- 🛠 Experience with **REST APIs, authentication & backend logic**  
+- 💻 Passionate about **modern, scalable full-stack applications**  
+- ⚛️ Skilled in **React ecosystem + state management (Jotai)**  
+- 🛠 Experienced with **REST APIs, authentication & backend logic**  
 - 🤖 Exploring **AI-powered web apps**  
-- 🎯 Focused on writing **clean, maintainable code**
+- ✨ Dedicated to writing **clean, maintainable code**
 
 ---
 
@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,html,css,git,github,postman,vscode" />
 </p>
-
 
 ---
 
@@ -72,5 +71,3 @@
 </p>
 
 ---
-
-
