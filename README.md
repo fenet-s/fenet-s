@@ -27,22 +27,19 @@
 
 ### 🚀 Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" />
 </p>
 
-### 🧠 Additional Skills
+### 🗄️ Database & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,express,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
----
-
-
+### 🎨 Styling & Tools
 <p align="center">
-  🔹 Personal Blog App (React + Jotai)  
-  🔹 Full-Stack Portfolio Website  
-  🔹 Authentication & Backend Systems  
+  <img src="https://skillicons.dev/icons?i=tailwind,html,css,git,github,postman,vscode" />
 </p>
+
 
 ---
 
