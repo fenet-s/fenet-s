@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Fenet Seifudin Abda</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Student;Web3+&+Blockchain+Enthusiast;AI+for+Linguistic+Preservation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&center=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Student;AI+for+Linguistic+Preservation" />
 </p>
 
 <p align="center">
