@@ -22,7 +22,7 @@
 - 🎓 **Education:** 3rd Year Software Engineering @ Adama Science and Technology University
 - 🚀 **Focus:** Full-stack development and AI-driven solutions
 
----
+----
 
 ## 🛠 Tech Stack
 
