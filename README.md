@@ -42,14 +42,14 @@
 
 ## 📈 GitHub Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fenet-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=fenet-s&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fenet-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=fenet-s&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenet-s&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenet-s&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
