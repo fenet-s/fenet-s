@@ -16,7 +16,7 @@
   </a>
 </p>
 
---
+---
 
 ## ⚡ Quick Snapshot
 - 🎓 **Education:** 3rd Year Software Engineering @ Adama Science and Technology University
