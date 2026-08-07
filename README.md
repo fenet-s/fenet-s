@@ -29,7 +29,7 @@
 | Category | Skills |
 | :--- | :--- |
 | **Core** | JavaScript (ES6+), TypeScript, React, Next.js, Node.js |
-| **Backend** | Express, REST APIs, Authentication, Solidity |
+| **Backend** | Express, REST APIs, Authentication, Solidity, go |
 | **Data** | MongoDB, PostgreSQL |
 | **Tools** | Git, GitHub, Postman, VS Code |
 | **UI/UX** | Tailwind CSS, HTML5, CSS3 |
